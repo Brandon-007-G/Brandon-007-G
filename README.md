@@ -1,16 +1,28 @@
-## Hi there 👋
 
-<!--
-**Brandon-007-G/Brandon-007-G** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Brandon! 👋
 
-Here are some ideas to get you started:
+### Software Engineering Student | Aspiring Backend Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Software Engineering student from Mexico passionate about technology, software development and problem-solving.
+
+I'm currently focused on learning backend development and building practical projects.
+
+### 🎯 Currently Learning
+- JavaScript
+- Node.js
+- SQL
+- REST APIs
+- Git and GitHub
+
+### 🚀 Goals
+- Become a Backend Developer.
+- Build real-world software projects.
+- Improve my technical English.
+- Work with international development teams.
+
+### 🌎 About Me
+- 📍 León, Guanajuato, Mexico
+- 💻 Interested in remote opportunities
+- 🌐 Spanish and English
+
+
